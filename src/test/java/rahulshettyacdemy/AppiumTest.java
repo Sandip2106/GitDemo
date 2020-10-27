@@ -23,6 +23,12 @@ public class AppiumTest {
 	}
 	
 	@Test
+	public void IOSApp2()
+	{
+		System.out.println("IOSApp2(");
+	}
+	
+	@Test
 	public void IOSApp3()
 	{
 		System.out.println("IOSApp3(");
